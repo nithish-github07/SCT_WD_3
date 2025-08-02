@@ -13,7 +13,7 @@ A clean, responsive, and interactive **Tic Tac Toe** game built using **HTML, CS
 ### Ending of the Game
 <img width="1886" height="903" alt="Screenshot 2025-08-02 160137" src="https://github.com/user-attachments/assets/2bfd9188-7633-4f46-b922-f3ae194b5e5d" />
 
-
+**Preview of the Game:**  https://nithish-github07.github.io/SCT_WD_3/
 ## 🚀 Features
 
 - 🎨 Modern and intuitive user interface
