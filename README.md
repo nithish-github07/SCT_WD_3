@@ -1,5 +1,7 @@
 # Task 3: Tic Tac Toe Web Application
 
+## Web Development Internship - SkillCraft Technology
+
 A clean, responsive, and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**. This project features player selection (X or O), smart UI transitions, dynamic gameplay, and a basic bot opponent for solo mode.
 
 ## 📸 Screenshot
